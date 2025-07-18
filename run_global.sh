@@ -1,0 +1,1 @@
+TORCH_DISTRIBUTED_DEBUG=DETAIL sh run.sh configs/vitb_384_oft.yaml 4 output
