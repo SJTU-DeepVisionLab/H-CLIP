@@ -14,7 +14,7 @@ Please refer to the [CAT-Seg](https://github.com/cvlab-kaist/CAT-Seg) repository
 You can launch the entire training and evaluation pipeline using:
 
 ```bash
-bash run_train_global.sh
+bash run_global.sh
 
 ```
 
